@@ -17,8 +17,8 @@
 
 > **Важно:** Сначала установите последнюю версию aiogram, затем выполните принудительную переустановку нужной версии:
 > ```bash
-> pip install --upgrade aiogram
-> pip install --force-reinstall -v "aiogram==2.23.1"
+> pip install requests
+> pip install aiogram==2.23.1          
 > ```
 
 - Дополнительно требуется пакет:
